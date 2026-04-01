@@ -36,7 +36,7 @@ https://drive.google.com/drive/folders/1CBYVg5S2LxhIF5EKYfCgBIURluRzDSzR?usp=dri
 В рамках проекта были рассмотрены следующие модели:
 - Logistic Regression (baseline)
 - Random Forest (default и с подбором гиперпараметров)
-- Дополнительные модели (при наличии)
+- Нейронная сеть
 
 Для всех моделей использовались одинаковые обучающая и тестовая выборки, что обеспечивает корректность сравнения.
 
